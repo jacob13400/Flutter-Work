@@ -1,3 +1,5 @@
-# Flutter-Work
+# Data Sourcing
 
-Some random Flutter projects that I have been working on
+Uses webscrapping to get data for individual countries time. To fill in world_clock
+
+Uses a special algorithm to search images online to get the image of a flag required.
